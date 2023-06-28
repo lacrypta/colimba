@@ -12,7 +12,7 @@ $ git clone git@github.com:<SU_USER_EN_GITHUB>/colimba.git
 Los enunciados de los ejercicios de cada cap&iacute;tulo est&aacute;n ubicados en los directorios:
 
 ```text
-<CAPITULO>/<EJERCICIO>/statement.md
+<CAPITULO>/<EJERCICIO>/README.md
 ```
 
 Resolver cada ejercicio en el mismo directorio en el que est&aacute; su enunciado.

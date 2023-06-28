@@ -1,6 +1,6 @@
 # La Colimba --- Repositorio de Ejercicios
 
-Hacer un _fork_ del repositorio haciendo yendo [ac&aacute;](https://github.com/lacrypta/colimba/fork):
+Hacer un _fork_ del repositorio haciendo yendo [ac&aacute;](https://github.com/lacrypta/colimba/fork).
 
 Clonar el fork que hicieron haciendo:
 

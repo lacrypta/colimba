@@ -1,9 +1,11 @@
 # La Colimba --- Repositorio de Ejercicios
 
-Clonar el repositorio haciendo:
+Hacer un _fork_ del repositorio haciendo yendo [ac&aacute;](https://github.com/lacrypta/colimba/fork):
+
+Clonar el fork que hicieron haciendo:
 
 ```sh
-$ git clone git@github.com:lacrypta/colimba.git
+$ git clone git@github.com:<SU_USER_EN_GITHUB>/colimba.git
 ...
 ```
 
